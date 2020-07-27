@@ -1,0 +1,24 @@
+{
+ "content": null,
+ "creation": "2020-07-18 16:10:52.959107",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "fa fa-th",
+ "idx": 0,
+ "modified": "2020-07-18 16:15:40.970890",
+ "modified_by": "Administrator",
+ "module": "Restaurant",
+ "name": "test-vivek",
+ "owner": "Administrator",
+ "page_name": "TEST Vivek",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "TEST RESTAURANT"
+}
